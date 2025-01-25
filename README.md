@@ -43,6 +43,7 @@ Class: DSB-10155
 ## Problem Statement
 
 - Reddit is comprised of numerous communities known as subreddits, where each subreddit is tailored to a specific interest, and misclassified posts can disrupt community discussions and reduce user engagement. To address this; I have taliored this project to develop and evaluate two supervised learning models that will determine which subreddit the post belongs to.
+
 | Model Type             | Model Description|  
 |------------------------|-------------------------------------------------------|  
 | Logistic Regression    | A baseline model offering simplicity and interpretability. |  
