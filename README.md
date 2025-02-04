@@ -2,7 +2,7 @@
 
 ## Project 3 - Subreddit Text Classification Model
 
-### Deatils
+### Details
 Name: Damar Shipp Jr
 
 Class: DSB-10155
